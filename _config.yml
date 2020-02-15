@@ -28,7 +28,9 @@ github_username:  nainu
 markdown: kramdown
 
 # theme: jekyll-theme-minima
-theme: minima
+# theme: minima
+remote_theme: jekyll-true-minimal # http://jekyllthemes.org/themes/true-minimal/
+# remote_theme: texture           # https://github.com/thelehhman/texture
 plugins:
   - jekyll-feed
 
