@@ -31,7 +31,7 @@ markdown: kramdown
 
 # theme: jekyll-theme-minima
 # theme: minima
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
